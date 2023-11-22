@@ -27,7 +27,6 @@ This dashboard can be used to filter the data by region, product, category, or a
     - STARS: A rating system that is used to categorize resellers.
 
 This dashboard shows a variety of information about resellers, including:
-
     - YTD: Year-to-date
     - LY: Last year
     - STARS: The STARS rating for each reseller.
@@ -40,9 +39,8 @@ The first table can be used to filter the data by STARS rating. The second table
 - Sales by Region Dashboard
 
     - Treemap: A visualization that shows the size of each region's sales.
-    - 
+  
 This dashboard shows a variety of information about sales by region, including:
-
     - Sales: The total sales for each region.
     - Evolution of sales: The trend of sales for each region.
     - Sales by product: The sales for each product by region.
